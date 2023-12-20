@@ -1,0 +1,8 @@
+0 stres
+1 ofke
+2 ozguven
+3 sosyalbeceri
+4 motorbeceri
+5 bilisselbeceri
+6 huzur
+7 sayginlik
